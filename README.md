@@ -200,5 +200,3 @@ Disconnected from Server.
 
 **Praveena Vasu**
 
-- GitHub: https://github.com/praveena-vasu
-- LinkedIn: https://www.linkedin.com/in/vasu-praveena
